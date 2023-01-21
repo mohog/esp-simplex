@@ -36,7 +36,8 @@
  *  the green wire from the clock to COM on the relay
  */
  
-#include <ESP8266Wifi.h>
+
+#include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
 #include <Timezone.h>    // https://github.com/JChristensen/Timezone
